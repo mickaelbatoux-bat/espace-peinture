@@ -1,7 +1,0 @@
-name = "espace-peinture"
-main = "worker.js"
-compatibility_date = "2026-07-06"
-
-[[kv_namespaces]]
-binding = "ESPACE_PEINTURE_KV"
-id = "ecbcdf2160ce4a0bb2029a0740b7b041"
